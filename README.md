@@ -26,6 +26,9 @@ The same code block becomes an interactive widget with:
 - 📄 **Output display** - See results, errors, and compilation messages
 - 🎨 **Theme integration** - Matches your Obsidian theme (dark/light mode)
 
+  ![image](https://github.com/user-attachments/assets/9bb324c0-a96f-4f87-9c93-4f580649e3b3)
+
+
 ## Installation
 
 1. Copy the `go-pad` folder to your Obsidian vault's `.obsidian/plugins/` directory
