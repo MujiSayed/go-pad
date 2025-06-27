@@ -66,6 +66,7 @@ The plugin will automatically transform it into an interactive widget when you s
 ## Examples
 
 ### Basic Hello World
+```
 ```go
 package main
 
@@ -75,40 +76,7 @@ func main() {
     fmt.Println("Hello, World!")
 }
 ```
-
-### Working with Variables
-```go
-package main
-
-import "fmt"
-
-func main() {
-    name := "Obsidian User"
-    age := 25
-    fmt.Printf("Hello %s, you are %d years old!\n", name, age)
-}
 ```
-
-### Error Handling Example
-```go
-package main
-
-import (
-    "fmt"
-    "strconv"
-)
-
-func main() {
-    str := "123"
-    num, err := strconv.Atoi(str)
-    if err != nil {
-        fmt.Println("Error:", err)
-        return
-    }
-    fmt.Println("Number:", num)
-}
-```
-
 ## Requirements
 
 - Obsidian v0.15.0 or higher
