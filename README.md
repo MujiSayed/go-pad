@@ -63,20 +63,7 @@ The plugin will automatically transform it into an interactive widget when you s
 - **Network resilience**: Graceful handling of connection issues
 - **Theme compatibility**: Adapts to Obsidian's light and dark themes
 
-## Examples
 
-### Basic Hello World
-```
-```go
-package main
-
-import "fmt"
-
-func main() {
-    fmt.Println("Hello, World!")
-}
-```
-```
 ## Requirements
 
 - Obsidian v0.15.0 or higher
