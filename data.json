@@ -1,0 +1,7 @@
+{
+  "logLevel": 3,
+  "enableAutoSync": true,
+  "enableValidation": true,
+  "maxWidgetHeight": 400,
+  "enableSmartResize": true
+}

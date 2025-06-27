@@ -1,0 +1,11 @@
+{
+	"id": "go-pad",
+	"name": "Go Pad",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Transform Go code blocks into interactive mini-IDEs using the Go Playground",
+	"author": "Muji Sayed",
+	"authorUrl": "https://github.com/MujiSayed/go-pad",
+	"fundingUrl": "",
+	"isDesktopOnly": false
+}
